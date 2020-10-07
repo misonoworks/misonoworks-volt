@@ -1,6 +1,11 @@
 # MisonoWorks Volt
+
+![Preview image](https://i.imgur.com/2kWvzd2.jpg)
+
 A pocket-sized Sound Voltex controller, with WS2812B backlighting.
-Uses EC11 encoders and HRO TYPE-C-31-M-12 USB-C receptacle
+Uses keyboard switches, EC11 encoders and an HRO TYPE-C-31-M-12 USB-C receptacle.
+
+This repository is covered by a GNU General Public License v3.0. You may reproduce these controllers commercially with attribution. For any inquiries, please contact me at misonoworks@gmail.com
 
 ## ASSEMBLY INSTRUCTIONS
 1) Download the files and put them into an easy-to-reach spot
@@ -73,3 +78,15 @@ WS2812B - https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS
 220 Resistor (FOR THT LEDS) - https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.html
 
 22pF Decoupling Capacitor (FOR CRYSTAL) - https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21C220JBANNNC_C1804.html
+
+Keyboard switches (make sure to pick MX COMPATIBLE switches!) - https://novelkeys.xyz/collections/switches
+
+BT Keycaps - https://pimpmykeyboard.com/dsa-1-5-space-pack-of-4/
+
+FX Keycaps - https://pimpmykeyboard.com/dsa-2-space-pack-of-4/
+
+Start Keycaps - https://pimpmykeyboard.com/dsa-1-space-pack-of-10/
+
+Knobs (Aliexpress, cheap, matte color with no dial indicator) - https://www.aliexpress.com/item/32912465745.html?spm=a2g0s.9042311.0.0.f83b4c4dPglQ28
+
+Knobs (Amazon, fast, expensive, metallic with colored dial indicator) - https://www.amazon.com/gp/product/B07PQ5H6MF/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
