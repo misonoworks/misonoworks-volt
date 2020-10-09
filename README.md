@@ -2,7 +2,7 @@
 
 ![Preview image](https://i.imgur.com/2kWvzd2.jpg)
 
-A pocket-sized Sound Voltex controller, with WS2812B backlighting.
+A pocket-sized Sound Voltex controller, with WS2812B underglow.
 Uses keyboard switches, EC11 encoders and an HRO TYPE-C-31-M-12 USB-C receptacle.
 
 This repository is covered by a GNU General Public License v3.0. You may reproduce these controllers commercially with attribution. For any inquiries, please contact me at misonoworks@gmail.com
